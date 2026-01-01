@@ -165,10 +165,10 @@ public class ExamUser {
           
 
         User_Exam u = new User_Exam();
-        u.addUser("Pavan","Pass@123");
-        u.addUser("Sujit","Pass@121");
-        u.addUser("Vishal","Pass@125");
-        u.addUser("Ganesh","Pass@124");
+        u.addUser("Pavan","P@-123");
+        u.addUser("Sujit","Pa@-121");
+        u.addUser("Vishal","Pas@-125");
+        u.addUser("Ganesh","Pass@-124");
         while(true) {
             System.out.println("======Login======");
             System.out.println("Enter you User Name :");
